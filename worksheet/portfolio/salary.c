@@ -22,8 +22,8 @@
     //printf("NI contribution £...",var_name);
     //printf("Tax contribution £...",var_name);
     //printf("Take home salary £...",var_name);
-    printf("Salary £%.2f", salary);
-    printf("Tax contribution £%.2f", tax_cont);
-    printf("Take home salary £%.2f", take_home);
+    printf("Salary £%.2f\n", salary);
+    printf("Tax contribution £%.2f\n", tax_cont);
+    printf("Take home salary £%.2f \n", take_home);
     return 0;
  }
